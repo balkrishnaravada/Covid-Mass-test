@@ -1,3 +1,4 @@
 Adding Controller Module
 Creating DoctorServlet
 Creating HighOfficialServlet
+Creating PatientServlet
